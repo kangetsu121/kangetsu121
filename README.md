@@ -1,8 +1,8 @@
 # kangetsu121's GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kangetsu121&theme=slateorange&show_icons=true)](https://github.com/kangetsu121/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kangetsu121&theme=slateorange&show_icons=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kangetsu121&theme=slateorange&show_icons=true)](https://github.com/kangetsu121/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kangetsu121&theme=slateorange&show_icons=true)
 
 
 <!--
