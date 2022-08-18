@@ -1,4 +1,9 @@
-### Hi there 👋
+# kangetsu121's GitHub Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kangetsu121&theme=slateorange&show_icons=true)](https://github.com/kangetsu121/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kangetsu121&theme=slateorange&show_icons=true)](https://github.com/kangetsu121/github-readme-stats)
+
 
 <!--
 **kangetsu121/kangetsu121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
